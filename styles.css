@@ -1,2 +1,26 @@
-
-/* Your CSS Code here. */
+#image{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	
+}
+#photo{
+	width: 200px;
+	border-radius: 50%;
+}
+#name{
+	text-align: center;
+}
+#ul{
+	list-style-type: circle;
+	margin-left: 20px;
+}
+#ol{
+	list-style-type: lower-roman;
+	margin-left: 20px;
+}
+#pi{
+	font-weight: bold;
+	list-style-type: none;
+	margin-left: 20px;
+}
